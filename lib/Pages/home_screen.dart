@@ -72,6 +72,11 @@ class HomeScreen extends StatelessWidget {
                       'Matrícula: 221198',
                       style: TextStyle(color: Colors.white, fontSize: 16),
                     ),
+                    SizedBox(height: 8,),
+                    Text(
+                      'Recuperacion A1',
+                      style: TextStyle(color: Colors.white, fontSize: 16),
+                    )
                   ],
                 ),
               ),
